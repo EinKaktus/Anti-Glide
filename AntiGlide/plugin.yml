@@ -1,6 +1,0 @@
-name: AntiGlide
-version: 1.0
-author: EinKaktus
-main: de.simon.glide.Main
-commands:
-  antiglide:
